@@ -35,5 +35,5 @@ def names_open_hendler(path, names=False, delim=',', threshold=999999):
     return docs
 
 
-path = '/Users/georgy/theme-classifier/40k_21november.csv'
+path = '.csv'
 x = names_open_hendler(path, threshold=3, names=False, delim=',')
