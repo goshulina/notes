@@ -1,4 +1,10 @@
 import copy as c
+import sys
+from tqdm import tqdm
+import csv
+
+csv.field_size_limit(sys.maxsize)
+csv.field_size_limit(sys.maxsize)
 
 class Vars:
     pass
