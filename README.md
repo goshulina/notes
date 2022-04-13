@@ -1,2 +1,2 @@
 # notes
-some python useful notes
+some python/ml useful notes
